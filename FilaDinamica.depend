@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688158949 source:d:\c\filadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
